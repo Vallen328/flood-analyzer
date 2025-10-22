@@ -121,4 +121,4 @@ python start.py
 This project is part of an AI-based flood risk prediction system. The system utilizes machine learning algorithms to predict potential flood risks based on various data inputs. It is designed to assist in making timely decisions to mitigate the impact of floods.
 
 ## License
-This project is licensed under the [MIT License](LICENSE) — feel free to modify and use it for learning or research purposes.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) — feel free to modify and use it for learning or research purposes.
